@@ -8,10 +8,10 @@ a simple code which lets you create, extract, remove content of the Zip file.
 
 # What Each of them does:
 add("/content file path");
-<br /> Explanation: adds file content inside of Zip file after its been created
+<br/> Explanation: adds file content inside of Zip file after its been created
 extractZip("/content file path", "/destionationPath");
-<br /> Explanation: extracts specific content from the Zip file into certain package
+<br/> Explanation: extracts specific content from the Zip file into certain package
 removeFile("/content file path");
-<br /> Explanation: removes specific content from the Zip file
+<br/> Explanation: removes specific content from the Zip file
 
 Note: setPassword method is malfunctioning for some reason, performing it results nothing. everything is working but no password is setting at all.
