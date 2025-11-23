@@ -12,6 +12,6 @@ Explanation: adds file content inside of Zip file after its been created\
 extractZip("/content file path", "/destionationPath");\
 Explanation: extracts specific content from the Zip file into certain package\
 removeFile("/content file path");\
-Explanation: removes specific content from the Zip file\
+Explanation: removes specific content from the Zip file
 
 Note: setPassword method is malfunctioning for some reason, performing it results nothing. everything is working but no password is setting at all.
